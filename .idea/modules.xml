@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LambdaOefeningen.iml" filepath="$PROJECT_DIR$/LambdaOefeningen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamOefeningen.iml" filepath="$PROJECT_DIR$/StreamOefeningen.iml" />
     </modules>
   </component>
 </project>

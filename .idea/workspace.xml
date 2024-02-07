@@ -1,28 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ded509f-8422-45e6-80c6-0125fd28bd46" name="Changes" comment="" />
+    <list default="true" id="5ded509f-8422-45e6-80c6-0125fd28bd46" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/ActriesTellen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/ArtiestenEnHunAlbums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/Artistennamen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/KleinsteOppervlakte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/LaatsteLand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/LandnamenSorteren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/OnevenGetallen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/Sterrenbeelden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/Sterrenbeelden2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/Vicki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/ZoekEenSterrenbeeld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LambdaOefeningen.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2bwRxo2DORfkra0vnnEj7LlzbHw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ActriesTellen.executor": "Run",
+    "Application.ArtiestenEnHunAlbums.executor": "Run",
+    "Application.Artistennamen.executor": "Run",
+    "Application.KleinsteOppervlakte.executor": "Run",
+    "Application.LaatsteLand.executor": "Run",
+    "Application.LandnamenSorteren.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OnevenGetallen.executor": "Run",
+    "Application.Sterrenbeelden.executor": "Run",
+    "Application.Sterrenbeelden2.executor": "Run",
+    "Application.Vicki.executor": "Run",
+    "Application.ZoekEenSterrenbeeld.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ArtiestenEnHunAlbums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.vdab.ArtiestenEnHunAlbums" />
+      <module name="StreamOefeningen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArtiestenEnHunAlbums" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,6 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707124405939</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1707124430277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707124430277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
